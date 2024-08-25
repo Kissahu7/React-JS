@@ -1,3 +1,3 @@
 # React-JS
 
-Sinple react program :)
+Simple react program :)
